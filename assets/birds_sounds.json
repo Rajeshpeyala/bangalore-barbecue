@@ -1,0 +1,52 @@
+[
+  {
+    "id":1,
+    "image": "../assets/images/cuckoo.png",
+    "sound":"../assets/audio/cuckoo.mp3"
+  },
+  {
+    "id":2,
+    "image": "../assets/images/duck.jpg",
+    "sound":"../assets/audio/duck.wav"
+  },
+  {
+    "id":3,
+    "image": "../assets/images/parrot.png",
+    "sound":"../assets/audio/parrot.mp3"
+  },
+  {
+    "id":4,
+    "image": "../assets/images/bird4.png",
+    "sound":"../assets/audio/music2.mp3"
+  },
+  {
+    "id":5,
+    "image": "../assets/images/crow.png",
+    "sound":"../assets/audio/crow.mp3"
+  },
+  {
+    "id":6,
+    "image": "../assets/images/rooster.png",
+    "sound":"../assets/audio/rooster.mp3"
+  },
+  {
+    "id":7,
+    "image": "../assets/images/bird7.png",
+    "sound":"../assets/audio/music1.mp3"
+  },
+  {
+    "id":8,
+    "image": "../assets/images/chick.png",
+    "sound":"../assets/audio/chick.mp3"
+  },
+  {
+    "id":9,
+    "image": "../assets/images/eagle.png",
+    "sound":"../assets/audio/eagle.wav"
+  },
+  {
+    "id":10,
+    "image": "../assets/images/dove.png",
+    "sound":"../assets/audio/dove.mp3"
+  }
+]
