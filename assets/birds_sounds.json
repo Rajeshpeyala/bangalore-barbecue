@@ -1,52 +1,52 @@
 [
   {
-    "id":1,
-    "image": "../assets/images/cuckoo.png",
-    "sound":"../assets/audio/cuckoo.mp3"
+    "id": 1,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":2,
-    "image": "../assets/images/duck.jpg",
-    "sound":"../assets/audio/duck.wav"
+    "id": 2,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":3,
-    "image": "../assets/images/parrot.png",
-    "sound":"../assets/audio/parrot.mp3"
+    "id": 3,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":4,
-    "image": "../assets/images/bird4.png",
-    "sound":"../assets/audio/music2.mp3"
+    "id": 4,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":5,
-    "image": "../assets/images/crow.png",
-    "sound":"../assets/audio/crow.mp3"
+    "id": 5,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":6,
-    "image": "../assets/images/rooster.png",
-    "sound":"../assets/audio/rooster.mp3"
+    "id": 6,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":7,
-    "image": "../assets/images/bird7.png",
-    "sound":"../assets/audio/music1.mp3"
+    "id": 7,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":8,
-    "image": "../assets/images/chick.png",
-    "sound":"../assets/audio/chick.mp3"
+    "id": 8,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":9,
-    "image": "../assets/images/eagle.png",
-    "sound":"../assets/audio/eagle.wav"
+    "id": 9,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   },
   {
-    "id":10,
-    "image": "../assets/images/dove.png",
-    "sound":"../assets/audio/dove.mp3"
+    "id": 10,
+    "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzAyOS82MTcvb3JpZ2luYWwvY2hlZXRhaC0yLTEyMDgwMi5qcGVn",
+    "sound": "http://www.bestwebsiteinindia.com/blog/wp-content/uploads/2015/01/Amazing-Love.mp3"
   }
 ]
